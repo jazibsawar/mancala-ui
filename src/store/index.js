@@ -9,7 +9,7 @@ export default new Vuex.Store({
       isMovePlayer1: true,
       player1: {
         name: "Jazib",
-        pits: [4, 4, 4, 4, 4, 9],
+        pits: [4, 4, 4, 4, 4, 4],
         mancala: 0
       },
       player2: {
